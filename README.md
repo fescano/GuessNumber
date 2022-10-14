@@ -1,4 +1,4 @@
-﻿﻿# GuessNumber
+﻿# GuessNumber
 Este proyecto se trata de un juego codificado en java, pensado para usarse como aplicación Android en dispositivos móviles en la cual muestra debemos adivinar un número del 1 al 100 en el núemero de intentos que nosotros veamos oportuno.
 
 ##Features
