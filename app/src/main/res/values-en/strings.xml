@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="etMessageHint">Write the number of attemps to guess</string>
+    <string name="btSendText">Play!</string>
+    <string name="etUserHint">Write your name</string>
+    <string name="aboutus">About us</string>
+    <string name="aboutUsSubTittle">Student of IES Portada Alta</string>
+    <string name="etInputHint">Write a number that want to guess</string>
+    <string name="btInputText">Try</string>
+    <string name="btRetryText">Retry</string>
+    <string name="onlydigit">That\'s not a correct number</string>
+    <string name="setnumber">The user and the number of attemps have to be fill</string>
+    <string name="aboutUsCreator">fescano</string>
+    <string name="aboutUsBrief">E-mail: al.fernando.escano.martin@iesportada.org</string>
+    <string name="tvMessageMayor">The number that you wrote is bigger than the answer</string>
+    <string name="tvMessageMenor">The number that you wrote is smaller than the answer</string>
+    <string name="intentosRestantes">"Attemps remaning: "</string>
+    <string name="menorQueCero">Write a number bigger than 0</string>
+    <string name="tvUserTextText">User:</string>
+    <string name="tvMessageTextText">Number of attemps:</string>
+    <string name="tvFinalTextP">¡YOU LOSE!</string>
+    <string name="tvFinalTextV">¡HAS GANADO!</string>
+    <string name="tvDesgloseText1">,\ you\'ve tried:\ </string>
+    <string name="tvDesgloseText2">" time/s of: "</string>
+    <string name="tvDesgloseText3">", the hidden number is: "</string>
+    <string name="btFinishText">Back to the menu</string>
+
+</resources>
